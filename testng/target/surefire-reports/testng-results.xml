@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LoginPagetest.LoginPageTest" duration-ms="55" started-at="2019-03-04T22:01:01Z" finished-at="2019-03-04T22:01:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="55" started-at="2019-03-04T22:01:01Z" finished-at="2019-03-04T22:01:01Z">
+      <class name="LoginPagetest.LoginPageTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="setUpClass" is-config="true" duration-ms="17" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testPassword()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="testPassword" duration-ms="8" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPassword -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testUsername()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="testUsername" duration-ms="1" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsername -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:LoginPagetest.LoginPageTest@3cb5cdba]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2019-03-04T14:01:01Z" finished-at="2019-03-04T14:01:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- LoginPagetest.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- LoginPagetest.LoginPageTest -->
+</testng-results>
